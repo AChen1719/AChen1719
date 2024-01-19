@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning AWS and machine learning. 
 - 🌱 I’m currently learning Python and AWS, Agile methodologies, and the ⛅️ 
 - 💞️ I’m looking to collaborate on more projects related to the ⛅️ area. 
-- 📫 How to reach me anniechen520@hotmail.com
+- 📫 How to reach me https://linktr.ee/anniechen520
 - 🏃🏻‍♀️ I’m a marathon runner and rock climber who can play various sports. 
 
 <!---
